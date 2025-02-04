@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Bryan Andrei, but you can call me Yanrei.
+
+I'm a highly motivated aspiring data analyst. I'm passionate about uncovering the stories hidden within data and am committed to using data to make data-driven decisions and have a meaningful impact. I thrive on the challenge of turning raw data into meaningful insights that inform informed decision-making.
+
+I'm familiar with a range of data analysis tools, including:
+
+* **Databases:** SQL (SQL Server)
+* **Database Management:** Microsoft SQL Server Management Studio (SSMS)
+* **Data Visualization:** Excel, Tableau, Power BI
+
+🌱 I’m currently studying dashboard design and UI/UX best practices.

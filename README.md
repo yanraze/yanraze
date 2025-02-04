@@ -26,3 +26,5 @@ I'm familiar with a range of data analysis tools, including:
 * **Data Visualization:** Excel, Tableau, Power BI
 
 🌱 I’m currently studying dashboard design and UI/UX best practices.
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanraze"/>

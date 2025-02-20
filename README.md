@@ -21,7 +21,7 @@ I'm a highly motivated aspiring data analyst. I'm passionate about uncovering th
 
 I'm familiar with a range of data analysis tools, including:
 
-* **Databases:** SQL (SQL Server)
+* **Databases:** SQL (MS SQL Server)
 * **Database Management:** Microsoft SQL Server Management Studio (SSMS)
 * **Data Visualization:** Excel, Tableau, Power BI
 
